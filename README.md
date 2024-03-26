@@ -1,4 +1,4 @@
-#### URL for the lates deploy.
+#### URL for the latest deploy.
 
 [BetterShaken-porfoliokr] (https://better-shaken-portfoliokr.vercel.app/)
 
