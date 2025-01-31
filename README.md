@@ -5,7 +5,7 @@ BetterShaken is a cocktail recipe web application built with **React**. It uses 
 ## 🌐 Live Demo
 
 You can check out the live version of the app here:  
-[BetterShaken Live Demo]([https://your-production-url.com](https://better-shaken-portfoliokr.vercel.app/)
+[BetterShaken Live Demo](https://better-shaken-portfoliokr.vercel.app/)
 
 ## 🚀 Features
 
